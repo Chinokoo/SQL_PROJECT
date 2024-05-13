@@ -10,4 +10,4 @@ SELECT
     END AS location_type -- Location type based on job location
 FROM
     -- Table containing job posting data
-    job_postings_fact
+    job_postings_fact 
