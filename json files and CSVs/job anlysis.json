@@ -1,0 +1,29 @@
+[
+  {
+    "job_id": 1230912,
+    "job_title": "Data Scientist",
+    "job_location": "Johannesburg, South Africa",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "157500.0",
+    "job_posted_date": "2023-02-11 19:22:49",
+    "company_name": "Standard Bank Group"
+  },
+  {
+    "job_id": 859102,
+    "job_title": "Data Scientist",
+    "job_location": "Johannesburg, South Africa",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "157500.0",
+    "job_posted_date": "2023-03-27 07:33:03",
+    "company_name": "Luno"
+  },
+  {
+    "job_id": 195060,
+    "job_title": "Data Scientist",
+    "job_location": "Johannesburg, South Africa",
+    "job_schedule_type": "Full-time",
+    "salary_year_avg": "90670.0",
+    "job_posted_date": "2023-07-28 12:17:50",
+    "company_name": "Inlumi"
+  }
+]
